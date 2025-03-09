@@ -1,1 +1,1 @@
-# TIPS_project
+# TIPS Project
